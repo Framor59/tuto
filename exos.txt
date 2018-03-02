@@ -1,3 +1,10 @@
 >>> n = 7 # définir la variable n et lui donner la valeur 7
 >>> msg = "Quoi de neuf ?" # affecter la valeur "Quoi de neuf ?" à msg
 >>> pi = 3.14159 # assigner sa valeur à la variable pi
+
+>>> n
+7
+>>> msg
+'Quoi de neuf ?'
+>>> pi
+3.14159
